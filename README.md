@@ -87,12 +87,6 @@ Provides a visual breakdown of transaction amounts across different categories.
 
 ---
 
-## Dashboard Preview
-
-<img width="100%" alt="Transaction Details Dashboard" src="dashboard.png">
-
----
-
 ## Conclusion
 This Power BI Transaction Details Dashboard transforms raw transaction data into actionable insights through interactive visualizations, KPI tracking, and dynamic filtering. It helps users understand transaction behavior, monitor performance, and make informed business decisions.
 
