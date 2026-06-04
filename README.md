@@ -1,11 +1,11 @@
-# 📊 Transaction Analysis Dashboard
+# Transaction Analysis Dashboard
 
-## 📌 Overview
+## Overview
 The Transaction Details Dashboard is an interactive Power BI project designed to analyze transaction data and provide meaningful insights into transaction performance, trends, and distribution. The dashboard enables users to monitor transaction amounts, identify high-value transactions, and analyze monthly transaction patterns through dynamic visualizations and filters.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 - Analyze transaction amounts and transaction frequency.
 - Monitor monthly transaction trends.
 - Compare transaction performance across transaction IDs.
@@ -14,7 +14,7 @@ The Transaction Details Dashboard is an interactive Power BI project designed to
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Power BI Desktop
 - Power Query
 - DAX (Data Analysis Expressions)
@@ -23,7 +23,7 @@ The Transaction Details Dashboard is an interactive Power BI project designed to
 
 ---
 
-## 📊 Dashboard Components
+## Dashboard Components
 
 ### KPI Cards
 The dashboard provides key business metrics including:
@@ -41,24 +41,24 @@ Users can filter data by:
 
 ### Visualizations
 
-#### 📌 Transaction Amount by Transaction ID
+#### Transaction Amount by Transaction ID
 Displays the total transaction amount for each transaction ID, helping identify high-value transactions.
 
-#### 📌 Transaction Amount by Month
+#### Transaction Amount by Month
 Shows monthly transaction trends and highlights peak transaction periods.
 
-#### 📌 Transaction Frequency by Transaction ID
+#### Transaction Frequency by Transaction ID
 Displays the number of transactions associated with each transaction ID.
 
-#### 📌 Monthly Transaction Distribution
+#### Monthly Transaction Distribution
 A pie chart representing the contribution of each month to overall transaction activity.
 
-#### 📌 Amount Distribution Treemap
+#### Amount Distribution Treemap
 Provides a visual breakdown of transaction amounts across different categories.
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - Identified months with the highest transaction volume.
 - Analyzed transaction amount distribution across multiple transaction IDs.
 - Compared Credit and Debit transaction patterns.
@@ -67,7 +67,7 @@ Provides a visual breakdown of transaction amounts across different categories.
 
 ---
 
-## 📈 Business Impact
+## Business Impact
 - Improved visibility into transaction data.
 - Enabled faster identification of high-value transactions.
 - Simplified trend analysis through interactive reporting.
@@ -76,7 +76,7 @@ Provides a visual breakdown of transaction amounts across different categories.
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 - Data Cleaning & Transformation
 - Data Modeling
 - DAX Measures
@@ -87,18 +87,18 @@ Provides a visual breakdown of transaction amounts across different categories.
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 <img width="100%" alt="Transaction Details Dashboard" src="dashboard.png">
 
 ---
 
-## 📋 Conclusion
+## Conclusion
 This Power BI Transaction Details Dashboard transforms raw transaction data into actionable insights through interactive visualizations, KPI tracking, and dynamic filtering. It helps users understand transaction behavior, monitor performance, and make informed business decisions.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Pavani Machavaram**
 
